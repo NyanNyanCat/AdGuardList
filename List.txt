@@ -21,7 +21,6 @@
 ||ucloud.com.cn^
 ||youzan.com^
 ||youzanyun.com^
-||huawei.com^
 #  xiaomi
 ||a.stat.xiaomi.com^
 ||a.union.mi.com^
@@ -42,7 +41,6 @@
 ||cdn.ad.xiaomi.com^
 ||cm.p4p.cn.yahoo.com^
 ||cm066.getui.igexin.com^
-||connect.rom.miui.com^
 ||data.mistat.xiaomi.com^
 ||e.ad.xiaomi.com^
 ||etl.xlmc.sandai.net^
